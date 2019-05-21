@@ -1,3 +1,4 @@
+-- Que onda negro
 create database LOS_CONSTRAINT
 USE LOS_CONSTRAINT
 
